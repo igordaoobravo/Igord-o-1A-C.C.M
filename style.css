@@ -1,6 +1,14 @@
 body{
-    background-color: brown;
-
-
+    background-color: brown;  
+    color: gold
+     
     
+}
+
+header{
+    background-color: rgb(148, 32, 32);
+    height:35px;
+
+
+
 }
