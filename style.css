@@ -8,7 +8,18 @@ body{
 header{
     background-color: rgb(148, 32, 32);
     height:35px;
+    margin-left: -10px;
+    margin-right: -10px;
 
+
+}
+
+header h3{
+  
+    padding-left: 15px;
+    color:goldenrod;
+    text-align: center;
+    font-size: 30px;
 
 
 }
